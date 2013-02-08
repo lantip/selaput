@@ -5,6 +5,8 @@
 __version__ =   "0.1"
 __author__  =   "@lantip"
 __date__    =   "2013/02/08"
+
+an extend from Geovedi's Botgan
 """
 
 import numpy, pylab
